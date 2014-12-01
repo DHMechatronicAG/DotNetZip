@@ -62,7 +62,7 @@ The Cabinet name can be anything you want. Not really important.
     </Property>
 
     <!-- Icon shown in Add/Remove Programs -->
-    <Icon Id="zippedFile.ico" SourceFile="..\Tools\WinFormsApp\zippedFile.ico" />
+    <Icon Id="zippedFile.ico" SourceFile="..\Zip\Resources\zippedFile.ico" />
     <Property Id="ARPPRODUCTICON" Value="zippedFile.ico" />
     <Property Id="ARPHELPLINK" Value="http://dotnetzip.codeplex.com/" />
 
